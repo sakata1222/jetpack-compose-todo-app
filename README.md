@@ -6,7 +6,7 @@
 
 - Install and configure Android SDK Manager
 - JDK11(jdk-11.0.9.1+1) or later
-   - Note : EXCEPTION_ACCESS_VIOLATION occurred with jdk-11.0.8+10. Use the latest JDk11.
+   - Note : EXCEPTION_ACCESS_VIOLATION occurred with jdk-11.0.8+10. Use the latest JDK11.
    
        ```
        Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
